@@ -1,0 +1,13 @@
+/*body {
+  font-family: system-ui;
+  background: #f06d06;
+  color: white;
+  text-align: center;
+}*/
+
+.table input[type=number]{
+  width: 110%;
+}
+#playerLevel{
+  width:12%;
+}
